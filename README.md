@@ -1,7 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/O5cmLDVTgAs?feature=shared" target="_blank">
-    </a>![threads cover](https://github.com/ssaintx/Threads/assets/149256879/29850758-c857-4e9b-a0aa-c18ba6315b46)
+    <a>
+      <img src="https://github.com/ssaintx/Threads/assets/149256879/29850758-c857-4e9b-a0aa-c18ba6315b46" alt="Cover">
+    </a>
 
   <br />
 
